@@ -1,7 +1,7 @@
 v
 function blob(x, y, r) {
 this.pos = createVector(x, y, height;)
-  this.r = r;
+  this.r = r
 
   this.update = function() {
     var vel= createVector
