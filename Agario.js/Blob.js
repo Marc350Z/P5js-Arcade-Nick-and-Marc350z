@@ -7,7 +7,7 @@ this.pos = createVector(x, y);
  var vel= createVector = createVector(mouseX, mouse Y);
  vel.sub(this.pos);
     vel.setMag(3);
-    this.pos.add(vel);
+    this.pos.add(vel)
 
 
 
